@@ -42,5 +42,9 @@ love = love - 1;
 love--;
 
 
+var age = 21;
+age += 8;
+console.log(age)
+
 
 
